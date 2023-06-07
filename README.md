@@ -26,3 +26,5 @@ A Qt Demo for my interview coding question
 ## Why
 
 In order to complete this Qt interview project, I almost heavily used chatGPT to assist me with the project. Because I haven't used C++ heavily in 1-2 years, and I haven't used Qt heavily in 5 years. This is an example of how AI can replace most of the work of programmers.
+
+The project went from 0 to completion, it took only 3 hours, which was amazing.
