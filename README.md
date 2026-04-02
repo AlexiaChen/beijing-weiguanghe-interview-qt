@@ -1,11 +1,10 @@
-# interview-qt-demos
+# beijing-weiguanghe-interview-qt
 
-A Qt Demo for my interview coding question
+北京维广合交通安全信息科技有限公司的Qt面试项目题
 
 ## Install Qt
 
 - https://download.qt.io/archive/qt/5.12/5.12.12/
-
 
 ## Requirements
 
@@ -23,10 +22,9 @@ A Qt Demo for my interview coding question
 
 以上四个基本功能全部都要实现。必须在1-2天内完成。
 
-## Why
+## 为什么
 
-In order to complete this Qt interview project, I almost heavily used chatGPT to assist me with the project. Because I haven't used C++ heavily in 1-2 years, and I haven't used Qt heavily in 5 years. This is an example of how AI can replace most of the work of programmers.
+为了完成这个Qt面试项目，我重度使用了chatGPT，在当时是使用GPT 3.5，那时候刚出没多久，github copilot 都还是Codex补全代码那种（不是现在的Codex cli），那时候没写C++有两年了，并且Qt更是四五年没写了，从零开始，借助对话式的chatGPT，也就花了3个小时就写完了，比较震惊。当然，现在是Coding Agent的时代了，只是纪念一下。
 
-The project went from 0 to completion, it took only 3 hours, which was amazing.
 
-chatGPT history with this project https://github.com/AlexiaChen/interview-qt-demos/issues/1 
+ChatGPT的对话历史记录: https://github.com/AlexiaChen/interview-qt-demos/issues/1 
